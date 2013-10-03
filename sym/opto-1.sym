@@ -20,8 +20,6 @@ pinlabel=BASE
 T 1700 950 5 8 0 1 0 2 1
 pinseq=6
 }
-T 1650 1800 5 10 0 0 0 0 1
-device=DRDC3105E6
 T 350 1250 8 10 1 1 0 0 1
 refdes=U?
 T 1650 2000 5 10 0 0 0 0 1
