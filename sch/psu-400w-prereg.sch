@@ -2,7 +2,7 @@ v 20110115 2
 T 54900 40900 9 10 1 0 0 0 1
 Elektor 400W Power Supply: Pre-Regulator
 T 54800 40600 9 10 1 0 0 0 1
-prereg.sch
+psu-400w-prereg.sch
 T 55000 40300 9 10 1 0 0 0 1
 1
 T 56500 40300 9 10 1 0 0 0 1
