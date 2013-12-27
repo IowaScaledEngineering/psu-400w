@@ -185,7 +185,7 @@ value=33V
 T 44700 48300 5 10 1 1 0 6 1
 description=1W
 T 45300 48500 5 10 1 1 0 0 1
-footprint=DO214
+footprint=DO-214
 }
 C 40000 40000 0 0 0 title-bordered-C.sym
 N 45000 44300 45000 44800 4
@@ -293,7 +293,7 @@ value=33V
 T 44700 46100 5 10 1 1 0 6 1
 description=1W
 T 45300 46300 5 10 1 1 0 0 1
-footprint=DO214
+footprint=DO-214
 }
 C 45200 47900 1 90 1 zener-1.sym
 {
@@ -306,7 +306,7 @@ value=33V
 T 44700 47200 5 10 1 1 0 6 1
 description=1W
 T 45300 47200 5 10 1 1 0 0 1
-footprint=DO214
+footprint=DO-214
 }
 C 45200 45700 1 90 1 zener-1.sym
 {
@@ -319,7 +319,7 @@ value=33V
 T 44700 45000 5 10 1 1 0 6 1
 description=1W
 T 45300 45000 5 10 1 1 0 0 1
-footprint=DO214
+footprint=DO-214
 }
 C 52900 45300 1 90 0 diode-bridge-1.sym
 {
