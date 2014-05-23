@@ -1,0 +1,4 @@
+schematics psu-400w-prereg.sch
+output-name ../pcb/psu-400w-prereg
+skip-m4
+elements-dir ../../../../footprints
